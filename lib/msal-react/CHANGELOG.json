@@ -2,6 +2,29 @@
   "name": "@azure/msal-react",
   "entries": [
     {
+      "date": "Fri, 09 Sep 2022 21:51:55 GMT",
+      "tag": "@azure/msal-react_v1.4.7",
+      "version": "1.4.7",
+      "comments": {
+        "none": [
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-react",
+            "commit": "ffde7158aba741b804d5558fc162c1f1c45c28cd",
+            "comment": "Post Release September 2022 #5186"
+          }
+        ],
+        "patch": [
+          {
+            "author": "beachball",
+            "package": "@azure/msal-react",
+            "comment": "Bump @azure/msal-browser to v2.28.3",
+            "commit": "5dd6e5c8bd013ad977ba452a7c8d3ec455fc9032"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 02 Sep 2022 18:06:53 GMT",
       "tag": "@azure/msal-react_v1.4.6",
       "version": "1.4.6",
